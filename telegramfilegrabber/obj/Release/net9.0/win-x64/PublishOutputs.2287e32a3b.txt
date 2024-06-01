@@ -1,0 +1,2 @@
+C:\Users\nabil\source\repos\telegramfilegrabber\telegramfilegrabber\bin\Release\net9.0\win-x64\publish\telegramfilegrabber.pdb
+C:\Users\nabil\source\repos\telegramfilegrabber\telegramfilegrabber\bin\Release\net9.0\win-x64\publish\telegramfilegrabber.exe

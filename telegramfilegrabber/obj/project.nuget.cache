@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "vpFHVi+9xa8=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nabil\\source\\repos\\telegramfilegrabber\\telegramfilegrabber\\telegramfilegrabber.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nabil\\.nuget\\packages\\microsoft.net.illink.tasks\\9.0.0-preview.4.24266.19\\microsoft.net.illink.tasks.9.0.0-preview.4.24266.19.nupkg.sha512",
+    "C:\\Users\\nabil\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\9.0.0-preview.4.24266.19\\microsoft.netcore.app.runtime.win-x64.9.0.0-preview.4.24266.19.nupkg.sha512",
+    "C:\\Users\\nabil\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\9.0.0-preview.4.24267.11\\microsoft.windowsdesktop.app.runtime.win-x64.9.0.0-preview.4.24267.11.nupkg.sha512",
+    "C:\\Users\\nabil\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\9.0.0-preview.4.24267.6\\microsoft.aspnetcore.app.runtime.win-x64.9.0.0-preview.4.24267.6.nupkg.sha512"
+  ],
+  "logs": []
+}

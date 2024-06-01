@@ -1,0 +1,14 @@
+C:\Users\nabil\source\repos\telegramfilegrabber\telegramfilegrabber\bin\Debug\net9.0\telegramfilegrabber.exe
+C:\Users\nabil\source\repos\telegramfilegrabber\telegramfilegrabber\bin\Debug\net9.0\telegramfilegrabber.deps.json
+C:\Users\nabil\source\repos\telegramfilegrabber\telegramfilegrabber\bin\Debug\net9.0\telegramfilegrabber.runtimeconfig.json
+C:\Users\nabil\source\repos\telegramfilegrabber\telegramfilegrabber\bin\Debug\net9.0\telegramfilegrabber.dll
+C:\Users\nabil\source\repos\telegramfilegrabber\telegramfilegrabber\bin\Debug\net9.0\telegramfilegrabber.pdb
+C:\Users\nabil\source\repos\telegramfilegrabber\telegramfilegrabber\obj\Debug\net9.0\telegramfilegrabber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nabil\source\repos\telegramfilegrabber\telegramfilegrabber\obj\Debug\net9.0\telegramfilegrabber.AssemblyInfoInputs.cache
+C:\Users\nabil\source\repos\telegramfilegrabber\telegramfilegrabber\obj\Debug\net9.0\telegramfilegrabber.AssemblyInfo.cs
+C:\Users\nabil\source\repos\telegramfilegrabber\telegramfilegrabber\obj\Debug\net9.0\telegramfilegrabber.csproj.CoreCompileInputs.cache
+C:\Users\nabil\source\repos\telegramfilegrabber\telegramfilegrabber\obj\Debug\net9.0\telegramfilegrabber.dll
+C:\Users\nabil\source\repos\telegramfilegrabber\telegramfilegrabber\obj\Debug\net9.0\refint\telegramfilegrabber.dll
+C:\Users\nabil\source\repos\telegramfilegrabber\telegramfilegrabber\obj\Debug\net9.0\telegramfilegrabber.pdb
+C:\Users\nabil\source\repos\telegramfilegrabber\telegramfilegrabber\obj\Debug\net9.0\telegramfilegrabber.genruntimeconfig.cache
+C:\Users\nabil\source\repos\telegramfilegrabber\telegramfilegrabber\obj\Debug\net9.0\ref\telegramfilegrabber.dll
